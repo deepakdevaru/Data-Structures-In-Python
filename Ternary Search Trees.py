@@ -52,13 +52,13 @@ class TernaryTree:
 
 if __name__ == "__main__":
     ternaryTrees = TernaryTree()
-    ternaryTrees.insert("cat",64)
+    ternaryTrees.insert("cat", 64)
     ternaryTrees.insert("camel", 46)
     ternaryTrees.insert("rat", 8)
     ternaryTrees.insert("tom", 6)
-    ternaryTrees.insert("abstract",90)
+    ternaryTrees.insert("abstract", 90)
 
-    print(ternaryTrees.get("tom"))
+    print(ternaryTrees.get("gkad"))
 
 
 
